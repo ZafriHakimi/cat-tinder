@@ -1,4 +1,4 @@
-# Cat Swipe App
+# Cat Tinder App
 
 A simple React app that lets users browse cat images and mark them as liked or disliked using swipe gestures or buttons. After reviewing a fixed number of cats, the app shows a summary of liked cats.
 
